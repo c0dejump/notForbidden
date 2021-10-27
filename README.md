@@ -17,4 +17,4 @@ Security tool to test different bypass of forbidden
 
 # Exemple
 
-![alt tag](https://github.com/c0dejump/notForbidden/blob/master/static/exemple.png)
+![alt tag](https://github.com/c0dejump/notForbidden/blob/main/static/exemple.png)
