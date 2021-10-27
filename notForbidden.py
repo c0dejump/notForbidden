@@ -26,7 +26,7 @@ def method(res, url):
         except:
             pass
     for rs, type_r in result_list:
-        if rs not in [403, 401, 404, 421, 429, 301, 302, 400, 408, 503, 405, 428, 412, 666, 500] and not word_exclude in rs.text:
+        if rs not in [403, 401, 404, 421, 429, 301, 302, 400, 408, 503, 405, 428, 412, 666, 500]:
             print("  {} Forbidden Bypass with this requests type: {}".format(BYP, type_r))
 
 
